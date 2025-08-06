@@ -1,0 +1,16 @@
+{
+    "questions": [
+        "What is the capital of India?",
+        "How does machine learning work?",
+        "What are the benefits of exercise?",
+        "Explain deep learning in simple terms.",
+        "What is artificial intelligence?"
+    ],
+    "answers": [
+        "The capital of India is New Delhi.",
+        "Machine learning is a field of AI that enables systems to learn from data.",
+        "Exercise helps improve mental and physical health.",
+        "Deep learning is a subset of machine learning that uses neural networks to mimic the human brain.",
+        "Artificial intelligence is the simulation of human intelligence in machines."
+    ]
+}
